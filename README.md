@@ -9,7 +9,7 @@ customer purchasing trends, seasonal sales patterns, and top-performing product 
 ## What's inside
 
 - **`Sales_Data_Analysis.ipynb`** — full analysis notebook (clean → SQL → EDA → charts → insights)
-- **`train.csv`** — source dataset
+- **`train.csv`** — [source dataset](https://www.kaggle.com/datasets/rohitsahoo/sales-forecasting)
 - **`chart_*.png`** — exported chart images
 
 ## Key findings
